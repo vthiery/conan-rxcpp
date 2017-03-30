@@ -17,3 +17,4 @@ class RxcppConan(ConanFile):
 
     def package(self):
         self.copy("*.hpp", dst="include", src="RxCpp/Rx/v2/src/rxcpp", keep_path=True)
+        self.copy("*.hpp", dst="include", src="RxCpp/Rx/v2/src/rxcpp/operators", keep_path=True)
