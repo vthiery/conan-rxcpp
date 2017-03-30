@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/vthiery/conan-rxcpp.svg)](https://travis-ci.org/vthiery/conan-rxcpp)
-
+[![Build Status](https://travis-ci.org/vthiery/conan-rxcpp.svg?branch=master)](https://travis-ci.org/vthiery/conan-rxcpp)
 
 # conan-rxcpp
 
