@@ -3,7 +3,7 @@ from conans import ConanFile
 
 class RxcppConan(ConanFile):
     name = "rxcpp"
-    version = "0.0.1"
+    version = "0.0.2"
     license = "MIT"
     url = "https://github.com/vthiery/rxcpp.git"
     author = "Vincent Thiery (vjmthiery@gmail.com)"

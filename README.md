@@ -6,7 +6,7 @@
 
 ## Usage
 
-Add `rxcpp/0.0.1@vthiery/stable` in the list of requirements of your conanfile
+Add `rxcpp/0.0.2@vthiery/stable` in the list of requirements of your conanfile
 
 ## Packaging
 
