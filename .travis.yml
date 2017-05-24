@@ -1,6 +1,6 @@
 os: linux
 services:
-       - docker
+    - docker
 sudo: required
 language: python
 env:
@@ -21,6 +21,6 @@ env:
         - CONAN_GCC_VERSIONS=6.2 CONAN_USE_DOCKER=1
 
 install:
-     - ./.travis/install.sh
+    - ./.travis/install.sh
 script:
-     - ./.travis/run.sh
+    - ./.travis/run.sh
