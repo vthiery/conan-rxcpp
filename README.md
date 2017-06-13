@@ -5,7 +5,7 @@
 [![Github Issues](https://img.shields.io/github/issues/vthiery/conan-rxcpp.svg)](https://github.com/vthiery/conan-rxcpp/issues)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/vthiery/conan-rxcpp.svg)](http://isitmaintained.com/project/vthiery/conan-rxcpp "Average time to resolve an issue")
 
-[JFrog Bintray](https://bintray.com/vthiery/conan-packages/rxcpp%3Avthiery) package for [RxCpp](https://github.com/Reactive-Extensions/RxCpp)
+[Conan](https://bintray.com/vthiery/conan-packages/rxcpp%3Avthiery) package for [RxCpp](https://github.com/Reactive-Extensions/RxCpp)
 
 ## Usage
 
